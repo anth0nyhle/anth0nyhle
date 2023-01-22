@@ -6,6 +6,8 @@ My PhD research focuses on foot and ankle orthopaedic biomechanics, specifically
 
 My overall career goal is to leverage engineering and data science to solve real-world problems in healthcare, sustainable development, climate, and/or the environment.
 
+Follow me on [Twitter](https://twitter.com/Anth0nyHLe) and [LinkedIn](https://www.linkedin.com/in/anth0nyhle/)!
+
 <!---
 anth0nyhle/anth0nyhle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
