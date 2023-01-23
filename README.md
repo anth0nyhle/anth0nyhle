@@ -4,7 +4,7 @@ I'm a graduate research assistant at the University of Utah, pursuing a PhD in b
 
 My PhD research focuses on foot and ankle orthopaedic biomechanics, specifically using a robotic simulator and cadaveric model to study the individual joint kinematic envelopes in the foot and ankle.
 
-My overall career goal is to leverage engineering and data science to solve real-world problems and contribute to improvements in society, especially in underrepresented, understudied, and underserved communities. Areas of interest include healthcare, sustainable development, climate, and the environment.
+My overall career goal is to leverage engineering and data science to solve real-world problems and make positive impacts in society, especially in underrepresented, understudied, and underserved communities. Areas of interest include healthcare, sustainable development, climate, and the environment.
 
 Follow me on [Twitter](https://twitter.com/Anth0nyHLe) and [LinkedIn](https://www.linkedin.com/in/anth0nyhle/)!
 
