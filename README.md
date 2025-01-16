@@ -1,14 +1,14 @@
 ## Hello, I’m Tony 👋
 
-I am a graduate research assistant at the University of Utah, pursuing a PhD in biomedical engineering (expected 2025). I mainly write code in MATLAB and R to process and analyze scientific data. I am currently expanding my Python skills to introduce applications of data science, machine learning, and deep learning into my work.
+I am a graduate research assistant at the University of Utah, pursuing a PhD in biomedical engineering (expected 2025). I mainly write code in MATLAB and Python to process and analyze scientific data.
 
-My PhD research is focused on foot and ankle orthopaedic biomechanics, specifically developing a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how different arthrodeses impact their underlying functionality. This work combines biomechanics, robotics, controls, and machine learning for a uniquely interdisciplinary approach to understanding the form and function of the foot and ankle complex.
+My PhD research aims to develop a robotic simulator to study the kinematic mechanisms of the ankle and hindfoot joints and how different arthrodeses affect their functionality. This work combines biomechanics, robotics, controls, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
-My overall career goal is to utilize robotics and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged and underrepresented communities.
+My career goal is to leverage robotics and data science to solve real-world problems and make a positive impact, particularly in disadvantaged and underrepresented communities.
 
-I am interested in working as a data scientist/machine learning engineer in medical robotics, health technology, sustainability, or climate technology.
+I am interested in roles as a data scientist, robotics engineer, or clinical development/research engineer within medical robotics, medical devices, or health technology.
 
-Follow me on [Twitter](https://twitter.com/Anth0nyHLe) and [LinkedIn](https://www.linkedin.com/in/anth0nyhle/)!
+Follow me on [LinkedIn](https://www.linkedin.com/in/anth0nyhle/)!
 
 <!---
 anth0nyhle/anth0nyhle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
