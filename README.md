@@ -1,12 +1,10 @@
 ## Hello, I’m Tony 👋
 
-I am a graduate research assistant at the University of Utah, pursuing a PhD in biomedical engineering (expected 2025). I mainly write code in MATLAB and Python to process and analyze scientific data.
+I have a PhD in Biomedical Engineering with expertise in leveraging biomechanics, robotics, and data science to drive innovation in medical devices and health technologies. I also have a Graduate Certificate in Deep Learning in AI & Robotics, with advanced coursework in machine learning, deep learning, data visualization, and medical robotics.
 
-My PhD research aims to develop a robotic simulator to study the kinematic mechanisms and interactions of the tibiotalar, subtalar, and midtarsal joints and how different arthrodeses affect their functionality. This work combines biomechanics, robotics, controls, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
+My career goal is to leverage robotics and data science to address real-world problems and create positive impact, particularly for disadvantaged and underrepresented communities.
 
-My career goal is to leverage robotics and data science to solve real-world problems and make a positive impact, particularly in disadvantaged and underrepresented communities.
-
-I am interested in roles as a data scientist, robotics engineer, or clinical development/research engineer within medical robotics, medical devices, or health technology.
+I am seeking opportunities as a research engineer, product development engineer, clinical development engineer, or systems engineer in medical robotics, medical devices, or health technology.
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/anth0nyhle/)!
 
