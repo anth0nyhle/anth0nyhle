@@ -1,6 +1,6 @@
 ## Hello, I’m Tony 👋
 
-I have a PhD in Biomedical Engineering with expertise in leveraging biomechanics, robotics, and data science to drive innovation in medical devices and health technologies. I also have a Graduate Certificate in Deep Learning in AI & Robotics, with advanced coursework in machine learning, deep learning, data visualization, and medical robotics.
+I have a PhD in Biomechanical Engineering with expertise in leveraging biomechanics, robotics, and data science to drive innovation in medical devices and health technologies. I also have a Graduate Certificate in Deep Learning in AI & Robotics, with advanced coursework in machine learning, deep learning, data visualization, and medical robotics.
 
 My career goal is to leverage robotics and data science to address real-world problems and create positive impact, particularly for disadvantaged and underrepresented communities.
 
